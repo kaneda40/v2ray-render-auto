@@ -9,7 +9,7 @@
       "settings": {
         "clients": [
           {
-            "id": "b8314d5c-a984-4c6f-8e5e-7f8f9e0a1b2c"
+            "id": "c1bbbc7a-6234-4aed-a055-eab59735e6c7"
           }
         ],
         "decryption": "none"
@@ -17,7 +17,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/Telegram/@AM2_D3/@AHMAD3214"
+          "path": "/telegram/@AADARKEMODEI/@Mustapha_Bacha35"
         },
         "security": "tls",
         "tlsSettings": {
