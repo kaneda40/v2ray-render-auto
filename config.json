@@ -9,7 +9,7 @@
       "settings": {
         "clients": [
           {
-            "id": "c1bbbc7a-6234-4aed-a055-eab59735e6c7"
+            "id": "019ce979-70fd-7798-a28d-ca535db3dc28"
           }
         ],
         "decryption": "none"
@@ -17,11 +17,11 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/telegram/@AADARKEMODEI/@Mustapha_Bacha35"
+          "path": "/Created_By/t.me/Mustapha_Bacha35"
         },
         "security": "tls",
         "tlsSettings": {
-          "serverName": "yt4.ggpht.com"
+          "serverName": "youtube.com"
         }
       }
     }
